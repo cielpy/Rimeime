@@ -5,7 +5,7 @@
     border_height: 3
     border_width: 6
     candidate_format: "%c %@ "
-    comment_text_color: 0xeeffffff
+    comment_text_color: 0x202020
     candidate_text_color: 0x666666
     corner_radius: 2
     font_point: 15
